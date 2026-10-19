@@ -1,0 +1,24 @@
+[answer qwen3:30b-a3b] 50/360 new_calls=36 hits=14 elapsed=361s
+[answer qwen3:30b-a3b] 100/360 new_calls=86 hits=14 elapsed=950s
+[answer qwen3:30b-a3b] 150/360 new_calls=136 hits=14 elapsed=1492s
+[answer qwen3:30b-a3b] 200/360 new_calls=186 hits=14 elapsed=2000s
+[answer qwen3:30b-a3b] 250/360 new_calls=236 hits=14 elapsed=2467s
+[answer qwen3:30b-a3b] 300/360 new_calls=285 hits=15 elapsed=2728s
+[answer qwen3:30b-a3b] 350/360 new_calls=335 hits=15 elapsed=3020s
+[answer qwen3:30b-a3b] 360/360 new_calls=345 hits=15 elapsed=3061s
+cache {'hits': 15, 'misses': 345}
+[answer qwen3:30b-a3b] 50/180 new_calls=50 hits=0 elapsed=281s
+[answer qwen3:30b-a3b] 100/180 new_calls=100 hits=0 elapsed=544s
+[answer qwen3:30b-a3b] 150/180 new_calls=150 hits=0 elapsed=815s
+[answer qwen3:30b-a3b] 180/180 new_calls=180 hits=0 elapsed=1027s
+cache {'hits': 0, 'misses': 180}
+[answer qwen3:30b-a3b] 50/180 new_calls=50 hits=0 elapsed=210s
+[answer qwen3:30b-a3b] 100/180 new_calls=100 hits=0 elapsed=392s
+[answer qwen3:30b-a3b] 150/180 new_calls=150 hits=0 elapsed=569s
+[answer qwen3:30b-a3b] 180/180 new_calls=180 hits=0 elapsed=706s
+cache {'hits': 0, 'misses': 180}
+[answer qwen3:30b-a3b] 50/180 new_calls=50 hits=0 elapsed=205s
+[answer qwen3:30b-a3b] 100/180 new_calls=100 hits=0 elapsed=430s
+[answer qwen3:30b-a3b] 150/180 new_calls=150 hits=0 elapsed=661s
+[answer qwen3:30b-a3b] 180/180 new_calls=180 hits=0 elapsed=831s
+cache {'hits': 0, 'misses': 180}

@@ -1,0 +1,71 @@
+W1019 14:38:15.833000 15995 torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 18736.34it/s]
+[answer gemma3:12b] 50/2160 new_calls=50 hits=0 elapsed=357s
+[answer gemma3:12b] 100/2160 new_calls=100 hits=0 elapsed=685s
+/Users/srikarmk/.local/share/uv/python/cpython-3.12.15-macos-aarch64-none/lib/python3.12/multiprocessing/resource_tracker.py:279: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+W1019 15:03:02.723000 17613 torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 30729.20it/s]
+[answer gemma3:12b] 50/360 new_calls=0 hits=50 elapsed=7s
+[answer gemma3:12b] 100/360 new_calls=0 hits=100 elapsed=7s
+[answer gemma3:12b] 150/360 new_calls=4 hits=146 elapsed=1074s
+/Users/srikarmk/.local/share/uv/python/cpython-3.12.15-macos-aarch64-none/lib/python3.12/multiprocessing/resource_tracker.py:279: UserWarning: resource_tracker: There appear to be 1 leaked semaphore objects to clean up at shutdown
+  warnings.warn('resource_tracker: There appear to be %d '
+W1019 16:01:45.093000 18930 torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 18203.49it/s]
+[answer gemma3:12b] 50/360 new_calls=0 hits=50 elapsed=9s
+[answer gemma3:12b] 100/360 new_calls=0 hits=100 elapsed=9s
+[answer gemma3:12b] 150/360 new_calls=0 hits=150 elapsed=9s
+[answer gemma3:12b] 200/360 new_calls=35 hits=165 elapsed=175s
+[answer gemma3:12b] 250/360 new_calls=85 hits=165 elapsed=390s
+[answer gemma3:12b] 300/360 new_calls=134 hits=166 elapsed=551s
+[answer gemma3:12b] 350/360 new_calls=184 hits=166 elapsed=715s
+[answer gemma3:12b] 360/360 new_calls=194 hits=166 elapsed=751s
+cache {'hits': 166, 'misses': 194}
+[answer gemma3:12b] 50/360 new_calls=50 hits=0 elapsed=164s
+[answer gemma3:12b] 100/360 new_calls=100 hits=0 elapsed=315s
+W1019 16:20:27.670000 21203 torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 20737.57it/s]
+[answer gemma3:12b] 150/360 new_calls=150 hits=0 elapsed=482s
+[answer gemma3:12b] 200/360 new_calls=200 hits=0 elapsed=655s
+[answer gemma3:12b] 250/360 new_calls=250 hits=0 elapsed=818s
+[answer gemma3:12b] 300/360 new_calls=300 hits=0 elapsed=996s
+[answer gemma3:12b] 350/360 new_calls=350 hits=0 elapsed=1211s
+[answer gemma3:12b] 360/360 new_calls=360 hits=0 elapsed=1243s
+cache {'hits': 0, 'misses': 360}
+[answer gemma3:12b] 50/360 new_calls=50 hits=0 elapsed=192s
+[answer gemma3:12b] 100/360 new_calls=100 hits=0 elapsed=375s
+[answer gemma3:12b] 150/360 new_calls=150 hits=0 elapsed=534s
+[answer gemma3:12b] 200/360 new_calls=199 hits=1 elapsed=711s
+[answer gemma3:12b] 250/360 new_calls=249 hits=1 elapsed=868s
+[answer gemma3:12b] 300/360 new_calls=298 hits=2 elapsed=1001s
+[answer gemma3:12b] 350/360 new_calls=348 hits=2 elapsed=1144s
+[answer gemma3:12b] 360/360 new_calls=358 hits=2 elapsed=1175s
+cache {'hits': 2, 'misses': 358}
+[answer gemma3:12b] 50/360 new_calls=50 hits=0 elapsed=127s
+[answer gemma3:12b] 100/360 new_calls=100 hits=0 elapsed=218s
+[answer gemma3:12b] 150/360 new_calls=150 hits=0 elapsed=307s
+[answer gemma3:12b] 200/360 new_calls=200 hits=0 elapsed=399s
+[answer gemma3:12b] 250/360 new_calls=250 hits=0 elapsed=488s
+[answer gemma3:12b] 300/360 new_calls=300 hits=0 elapsed=573s
+[answer gemma3:12b] 350/360 new_calls=350 hits=0 elapsed=662s
+[answer gemma3:12b] 360/360 new_calls=360 hits=0 elapsed=680s
+cache {'hits': 0, 'misses': 360}
+[answer gemma3:12b] 50/360 new_calls=50 hits=0 elapsed=161s
+[answer gemma3:12b] 100/360 new_calls=100 hits=0 elapsed=327s
+[answer gemma3:12b] 150/360 new_calls=149 hits=1 elapsed=482s
+[answer gemma3:12b] 200/360 new_calls=199 hits=1 elapsed=643s
+[answer gemma3:12b] 250/360 new_calls=249 hits=1 elapsed=805s
+[answer gemma3:12b] 300/360 new_calls=298 hits=2 elapsed=955s
+[answer gemma3:12b] 350/360 new_calls=348 hits=2 elapsed=1120s
+[answer gemma3:12b] 360/360 new_calls=358 hits=2 elapsed=1151s
+cache {'hits': 2, 'misses': 358}
+[answer gemma3:12b] 50/360 new_calls=50 hits=0 elapsed=141s
+[answer gemma3:12b] 100/360 new_calls=100 hits=0 elapsed=290s
+[answer gemma3:12b] 150/360 new_calls=149 hits=1 elapsed=429s
+[answer gemma3:12b] 200/360 new_calls=199 hits=1 elapsed=574s
+[answer gemma3:12b] 250/360 new_calls=249 hits=1 elapsed=726s
+[answer gemma3:12b] 300/360 new_calls=299 hits=1 elapsed=865s
+[answer gemma3:12b] 350/360 new_calls=349 hits=1 elapsed=1021s
+[answer gemma3:12b] 360/360 new_calls=359 hits=1 elapsed=1052s
+cache {'hits': 1, 'misses': 359}

@@ -1,0 +1,36 @@
+W1019 11:14:52.105000 94160 torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 29110.86it/s]
+[build qwen3:8b] 1/16 new_calls=215 hits=4 elapsed=338s
+[build qwen3:8b] 2/16 new_calls=215 hits=78 elapsed=338s
+[build qwen3:8b] 3/16 new_calls=215 hits=138 elapsed=338s
+[build qwen3:8b] 4/16 new_calls=220 hits=204 elapsed=344s
+[build qwen3:8b] 5/16 new_calls=220 hits=277 elapsed=344s
+[build qwen3:8b] 6/16 new_calls=220 hits=336 elapsed=344s
+[build qwen3:8b] 7/16 new_calls=269 hits=409 elapsed=436s
+[build qwen3:8b] 8/16 new_calls=274 hits=452 elapsed=449s
+[build qwen3:8b] 9/16 new_calls=323 hits=502 elapsed=541s
+[build qwen3:8b] 10/16 new_calls=328 hits=514 elapsed=552s
+[build qwen3:8b] 11/16 new_calls=379 hits=551 elapsed=665s
+[build qwen3:8b] 12/16 new_calls=388 hits=561 elapsed=687s
+[build qwen3:8b] 13/16 new_calls=583 hits=625 elapsed=1069s
+[build qwen3:8b] 14/16 new_calls=590 hits=626 elapsed=1080s
+[build qwen3:8b] 15/16 new_calls=728 hits=630 elapsed=1268s
+[build qwen3:8b] 16/16 new_calls=729 hits=630 elapsed=1271s
+cache {'hits': 630, 'misses': 729}
+W1019 11:36:00.235000 97833 torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 22234.65it/s]
+[answer qwen3:8b] 50/696 new_calls=44 hits=6 elapsed=52s
+[answer qwen3:8b] 100/696 new_calls=94 hits=6 elapsed=99s
+[answer qwen3:8b] 150/696 new_calls=144 hits=6 elapsed=148s
+[answer qwen3:8b] 200/696 new_calls=194 hits=6 elapsed=201s
+[answer qwen3:8b] 250/696 new_calls=244 hits=6 elapsed=263s
+[answer qwen3:8b] 300/696 new_calls=294 hits=6 elapsed=318s
+[answer qwen3:8b] 350/696 new_calls=344 hits=6 elapsed=380s
+[answer qwen3:8b] 400/696 new_calls=394 hits=6 elapsed=439s
+[answer qwen3:8b] 450/696 new_calls=444 hits=6 elapsed=498s
+[answer qwen3:8b] 500/696 new_calls=494 hits=6 elapsed=547s
+[answer qwen3:8b] 550/696 new_calls=544 hits=6 elapsed=593s
+[answer qwen3:8b] 600/696 new_calls=594 hits=6 elapsed=654s
+[answer qwen3:8b] 650/696 new_calls=644 hits=6 elapsed=705s
+[answer qwen3:8b] 696/696 new_calls=690 hits=6 elapsed=752s
+cache {'hits': 6, 'misses': 690}

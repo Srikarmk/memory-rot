@@ -1,0 +1,10 @@
+[answer qwen3:8b rerun] 50/420 new_calls=50 hits=0 elapsed=647s
+[answer qwen3:8b rerun] 100/420 new_calls=100 hits=0 elapsed=710s
+[answer qwen3:8b rerun] 150/420 new_calls=150 hits=0 elapsed=770s
+[answer qwen3:8b rerun] 200/420 new_calls=200 hits=0 elapsed=839s
+[answer qwen3:8b rerun] 250/420 new_calls=250 hits=0 elapsed=890s
+[answer qwen3:8b rerun] 300/420 new_calls=299 hits=1 elapsed=943s
+[answer qwen3:8b rerun] 350/420 new_calls=349 hits=1 elapsed=999s
+[answer qwen3:8b rerun] 400/420 new_calls=399 hits=1 elapsed=1053s
+[answer qwen3:8b rerun] 420/420 new_calls=419 hits=1 elapsed=1082s
+cache {'hits': 1, 'misses': 419}

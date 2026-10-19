@@ -1,0 +1,83 @@
+{
+ "random": {
+  "n": 50,
+  "agree": 48,
+  "rate": 0.96
+ },
+ "both values": {
+  "n": 25,
+  "agree": 20,
+  "rate": 0.8
+ },
+ "disagreements": [
+  {
+   "id": 2,
+   "label": "correct",
+   "judge": "hedged",
+   "answer": "The client has pushed the deadline to June 6, but you had initially set a deadline for March 26. However, considering the new deadline set by the client, it's likely that you'll need to adjust your internal deadline to align with the new expectation."
+  },
+  {
+   "id": 49,
+   "label": "stale",
+   "judge": "hedged",
+   "answer": "Project Barnacle needs to be finished by February 23rd. You also have another project due on March 12th."
+  },
+  {
+   "id": 52,
+   "label": "stale",
+   "judge": "hedged",
+   "answer": "Project Barnacle needs to be finished by February 23rd. You also have another project due on June 27th."
+  },
+  {
+   "id": 56,
+   "label": "correct",
+   "judge": "hedged",
+   "answer": "The deadline for Project Cobalt is March 26th, and the launch date is April 8th \u2013 hopefully, you're on track with everything! Remember, you've been putting in a lot of work on it, and it's exciting that the launch is so close."
+  },
+  {
+   "id": 59,
+   "label": "hedged",
+   "judge": "correct",
+   "answer": "Your team meets on Thursday and Friday mornings, based on your previous team meeting schedule."
+  },
+  {
+   "id": 68,
+   "label": "hedged",
+   "judge": "correct",
+   "answer": "That's a bit complicated! You recently moved, so while you live in Phoenix, you previously considered Phoenix home and now consider Pittsburgh home."
+  },
+  {
+   "id": 71,
+   "label": "hedged",
+   "judge": "correct",
+   "answer": "Typically, your team meeting is on Friday mornings, but it has been rescheduled to Thursday this week. I'll make sure to keep track of the usual Friday schedule for next week."
+  }
+ ],
+ "confusion": {
+  "correct": {
+   "correct": 44,
+   "hedged": 3,
+   "neither": 0,
+   "stale": 0
+  },
+  "hedged": {
+   "correct": 2,
+   "hedged": 12,
+   "neither": 0,
+   "stale": 2
+  },
+  "neither": {
+   "correct": 0,
+   "hedged": 0,
+   "neither": 3,
+   "stale": 0
+  },
+  "stale": {
+   "correct": 0,
+   "hedged": 0,
+   "neither": 0,
+   "stale": 9
+  }
+ },
+ "summary": "Labels against the deterministic judge, made without seeing the judge's verdicts (one pass, no second labeller yet). random: 48/50 (96%); both values: 20/25 (80%). Rows: label, columns: judge.\n\n| label \\ judge | correct | hedged | neither | stale |\n|---|---|---|---|---|\n| correct | 44 | 2 | 0 | 0 |\n| hedged | 3 | 12 | 0 | 0 |\n| neither | 0 | 0 | 3 | 0 |\n| stale | 0 | 2 | 0 | 9 |"
+}

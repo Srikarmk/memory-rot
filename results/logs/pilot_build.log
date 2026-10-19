@@ -1,0 +1,5 @@
+W1019 11:10:01.222000 93742 torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/199 [00:00<?, ?it/s]Loading weights: 100%|██████████| 199/199 [00:00<00:00, 9619.96it/s]
+[build qwen3:8b] 1/1 new_calls=75 hits=0 elapsed=162s
+cache {'hits': 0, 'misses': 75}
+uv run memrot build --user-list 0 --conditions base --workers 1  6.68s user 1.04s system 4% cpu 2:42.86 total
