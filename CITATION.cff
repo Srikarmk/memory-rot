@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "Memory Rot: do stale facts override new ones in agent memory?"
+abstract: "A controlled study of long-term agent memory: fictional users whose facts change, seven memory designs and four open models, with every answer checked by code."
+authors:
+  - family-names: Manda
+    given-names: Kameswara Sai Srikar
+date-released: "2026-10-20"
+url: "https://www.srikarmk.dev/projects/memory-rot"
+repository-code: "https://github.com/Srikarmk/memory-rot"
+license: MIT
+keywords: [llm, ai agents, agent memory, knowledge conflicts, evaluation]

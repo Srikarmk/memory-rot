@@ -1,5 +1,7 @@
 # memory-rot
 
+<a href="https://www.srikarmk.dev/projects/memory-rot"><img alt="Case study" src="https://img.shields.io/badge/case%20study-srikarmk.dev-5b4fc9" /></a> <a href="https://www.srikarmk.dev/series/measuring-llm-systems"><img alt="Series" src="https://img.shields.io/badge/series-Measuring%20LLM%20Systems-5b4fc9" /></a> <a href="pyproject.toml"><img alt="Python" src="https://img.shields.io/badge/python-3.11%2B-blue" /></a> <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-MIT-blue" /></a>
+
 **Question.** An agent with long-term memory learns a fact about its user, the fact changes, and later the
 agent is asked. Does it answer with the old fact, the new one, or both? What makes that worse, and which
 memory designs fix it?
